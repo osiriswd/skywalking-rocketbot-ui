@@ -79,6 +79,8 @@ limitations under the License. -->
       bottom: 0;
       color: #ccc;
       border-radius: 4px;
+      height:300px;
+      overflow:auto;
     }
     .group-item {
       position: relative;
